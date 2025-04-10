@@ -1,0 +1,9 @@
+Traffic-Congestion-Prediction/
+├── congestion_prediction.py
+├── traffic_data.csv  (optional)
+├── plots/
+│   ├── rf_confusion_matrix.png
+│   ├── nn_confusion_matrix.png
+│   ├── feature_importance.png
+│   └── nn_accuracy.png
+└── requirements.txt
